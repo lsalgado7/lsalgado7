@@ -34,5 +34,7 @@ One of my favorite parts of coding is creating modular and scalable products tha
 ---
 
 ## My GitHub Stats
-![Levi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=lsalgado7&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lsalgado7&layout=compact&theme=tokyonight)
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=lsalgado7&show_icons=true&theme=tokyonight" alt="Levi's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lsalgado7&layout=compact&theme=tokyonight" alt="Top Langs" />
+</p>
