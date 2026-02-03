@@ -28,8 +28,8 @@ One of my favorite parts of coding is creating modular and scalable products tha
 
 ## Current Focus
 - **Sentinelle:** Building a local-first, privacy-focused digital footprint tracker using Python and ML.
-- **Graduation:** Wrapping up my final year at UO (Go Ducks! 🦆).
-- **Creative Dev:** Exploring the intersection of Blender models and web performance.
+- **Graduation:** Wrapping up my final year at UO studying data science.
+- **Job Hunt:** Actively seeking my first full-time career position to support my growing family.
 
 ---
 
