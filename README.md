@@ -1,4 +1,4 @@
-# Hi, I'm Levi Salgado
+# Welcome :)
 
 ### Data Science @ University of Oregon | Analyst & Creative Developer
 
