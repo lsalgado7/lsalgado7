@@ -12,7 +12,7 @@ I love creating **data-driven insights** and **interactive user experiences**. M
 
 | Category | Tools & Languages |
 | :--- | :--- |
-| **Main Languages** | Python, SQL, R, C#, Rust |
+| **Main Languages** | Python, SQLite, R, C#, Rust |
 | **Machine Learning** | PyTorch, Scikit-learn, Pandas, NumPy |
 | **Creative Tools** | JavaScript, Three.js, Blender, Unity, SASS, HTML |
 | **Environment** | Arch Linux (Hyprland), Git, Bash, Powershell |
@@ -20,7 +20,7 @@ I love creating **data-driven insights** and **interactive user experiences**. M
 ---
 
 ## Current Focus
-- **Sentinelle:** Building a local-first, privacy-focused digital footprint tracker using Python and ML.
+- **Sentinelle:** Building a local-first, privacy-focused digital footprint tracker using Python, Rust, and SQLCipher/SQLite.
 - **Graduation:** Wrapping up my final year at UO studying data science.
 - **Job Hunt:** Actively seeking my first full-time career position to support my growing family.
 
