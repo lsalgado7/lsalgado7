@@ -4,11 +4,6 @@
 
 I love creating **data-driven insights** and **interactive user experiences**. My highlighted projects include a 3D web portfolio, personal analyst app, 2D platformer, and hackathon projects involving game development & machine learning.
 
----
-
-## Quick Links
-- 🌐 [Interactive 3D Portfolio](https://lsalgado.vercel.app)
-- 💼 [LinkedIn](https://www.linkedin.com/in/lsalgado7/)
 - 📧 [Email Me](mailto:levirsalgado@gmail.com)
 
 ---
