@@ -21,7 +21,7 @@ I love creating **data-driven insights** and **interactive user experiences**. M
 
 ## Current Focus
 - **Sentinelle:** Building a local-first, privacy-focused digital footprint tracker using Python, Rust, and SQLCipher/SQLite.
-- **Graduation:** Wrapping up my final year at UO studying data science.
+- **Graduation:** Wrapping up my final year at UO studying data science and working part time as a Research Assistant & as a Student Communications Technician.
 - **Job Hunt:** Actively seeking my first full-time career position to support my growing family.
 
 
