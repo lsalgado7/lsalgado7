@@ -15,7 +15,7 @@ I love creating **data-driven insights** and **interactive user experiences**. M
 | **Main Languages** | Python, SQLite, R, C#, Rust |
 | **Machine Learning** | PyTorch, Scikit-learn, Pandas, NumPy |
 | **Creative Tools** | JavaScript, Three.js, Blender, Unity, SASS, HTML |
-| **Environment** | Arch Linux (Hyprland), Git, Bash, Powershell |
+| **Environment** | Git, Bash, Powershell, Arch Linux |
 
 ---
 
