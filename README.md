@@ -4,8 +4,6 @@
 
 I love creating **data-driven insights** and **interactive user experiences**. My highlighted projects include a 3D web portfolio, personal analyst app, 2D platformer, and hackathon projects involving game development & machine learning.
 
-One of my favorite parts of coding is creating modular and scalable products that not only work, but make sense on a low level. Having a thorough understanding of your project from start to finish is imperative.
-
 ---
 
 ## Quick Links
