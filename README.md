@@ -4,8 +4,6 @@
 
 I love creating **data-driven insights** and **interactive user experiences**. My highlighted projects include a 3D web portfolio, personal analyst app, 2D platformer game, and hackathon projects involving game development & machine learning.
 
-- 📧 [Email Me](mailto:levirsalgado@gmail.com)
-
 ---
 
 ## My Tech Stack
