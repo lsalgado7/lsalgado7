@@ -2,7 +2,7 @@
 
 ### Data Science @ University of Oregon | Analyst & Creative Developer
 
-I love creating **data-driven insights** and **interactive user experiences**. My highlighted projects include a 3D web portfolio, personal analyst app, 2D platformer game, and hackathon projects involving game development & machine learning.
+I love creating **data-driven insights** and **interactive user experiences**. My highlighted projects include a 3D web portfolio, an AI researcher, personal analyst app, 2D platformer game, and hackathon projects involving game development & machine learning.
 
 ---
 
@@ -12,6 +12,7 @@ I love creating **data-driven insights** and **interactive user experiences**. M
 | :--- | :--- |
 | **Main Languages** | Python, SQLite, R, C#, Rust |
 | **Machine Learning** | PyTorch, Scikit-learn, Pandas, NumPy |
+| **AI Engineering** | CrewAI, Pydantic, SerperAI |
 | **Creative Tools** | JavaScript, Three.js, Blender, Unity, SASS, HTML |
 | **Environment** | Git, Bash, Powershell, Arch Linux |
 
